@@ -1,2 +1,2 @@
-# WFH
-Work for Human
+# [WFH](https://github.com/MarkDeia/WFH) 
+> Work for Human
